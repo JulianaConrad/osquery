@@ -1,5 +1,7 @@
 # osquery
 
+New Author = Juliana Conrad
+
 <p align="center">
 <img align="center" src="https://github.com/facebook/osquery/raw/master/docs/img/logo-2x-dark.png" alt="osquery logo" width="200"/>
 
